@@ -1,2 +1,5 @@
 selenium
 pytest-bdd
+webdriver-manager
+requests
+pytest-html-reporter
